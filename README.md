@@ -4,7 +4,7 @@ Hello, ı used this dataset from https://www.kaggle.com/datasets/shivamb/netflix
 
 ***********************************************************************************************************************************************************
 
-Turkey have 105 movie/show in this dataset. All dataset have 8807.
+Turkey have 105 movie/show in this dataset. All dataset have 8807. So Turkey in the %1.2 percent.
 
 -------------------------------------------------------------------
 
