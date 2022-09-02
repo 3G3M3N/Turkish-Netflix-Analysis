@@ -16,61 +16,7 @@ Turkey have 105 content.
 
 -------------------------------------------------------------------
 
-Exhaustive Category:
-
-Comedies, International Movies                                      23
-
-Comedies, International Movies, Romantic Movies                     16
-
-Comedies, Dramas, International Movies                               9
-
-Crime TV Shows, International TV Shows, TV Dramas                    8
-
-Dramas, International Movies                                         7
-
-Dramas, International Movies, Romantic Movies                        6
-
-International TV Shows, TV Dramas, TV Thrillers                      4
-
-Action & Adventure, Comedies, International Movies                   3
-
-International TV Shows, TV Dramas                                    3
-
-Horror Movies, International Movies                                  3
-
-Crime TV Shows, International TV Shows, TV Action & Adventure        2
-
-International TV Shows, Romantic TV Shows, TV Comedies               2
-
-International TV Shows, Romantic TV Shows, TV Dramas                 2
-
-Dramas, International Movies, Thrillers                              2
-
-International TV Shows, TV Action & Adventure, TV Dramas             2
-
-International TV Shows, TV Dramas, TV Mysteries                      2
-
-International TV Shows, TV Dramas, Teen TV Shows                     1
-
-Children & Family Movies, Comedies, International Movies             1
-
-Comedies, International Movies, Music & Musicals                     1
-
-Children & Family Movies, Comedies                                   1
-
-International TV Shows, Romantic TV Shows, TV Action & Adventure     1
-
-International TV Shows, TV Dramas, TV Horror                         1
-
-Dramas, Independent Movies, International Movies                     1
-
-Dramas, International Movies, Sports Movies                          1
-
-Comedies, International Movies, Sports Movies                        1
-
-Comedies, Dramas, Independent Movies                                 1
-
-International TV Shows, TV Comedies, TV Dramas                       1
+![kategori](https://user-images.githubusercontent.com/83331577/188179810-8fda3ce5-c626-4902-9154-e8a7de415d9a.PNG)
 
 *** So %48.5 percent main story is Comedies.
 
