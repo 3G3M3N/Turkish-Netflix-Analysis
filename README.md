@@ -4,13 +4,13 @@ Hello, ı used this dataset from https://www.kaggle.com/datasets/shivamb/netflix
 
 ***********************************************************************************************************************************************************
 
-Turkey have 105 movie/show in this dataset. All dataset have 8807. So Turkey in the **%1.2** percent. This mean Netflix contents 1.3 percent is Turkish series, movies.
+Turkey have 105 movie/show in this dataset. All dataset have 8807. So Turkey in the **%1.2** percent. This mean Netflix contents **%1.2** percent is Turkish series content.
 
 -------------------------------------------------------------------
 
 **Category:** 
 
-Turkey have 105 content.
+Turkey have **105** content.
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/83331577/188179563-4c7aa024-e6ab-4088-b07e-87d349884cdc.PNG)
 
@@ -18,9 +18,9 @@ Turkey have 105 content.
 
 ![kategori](https://user-images.githubusercontent.com/83331577/188179810-8fda3ce5-c626-4902-9154-e8a7de415d9a.PNG)
 
-%48.5 percent **main story** is Comedies.
+**%48.5** percent **main story** is Comedies.
 
-%16 percent **main story** is Dramas.
+**%16** percent **main story** is Dramas.
 
 -------------------------------------------------------------------
 
