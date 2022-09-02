@@ -18,9 +18,9 @@ Turkey have 105 content.
 
 ![kategori](https://user-images.githubusercontent.com/83331577/188179810-8fda3ce5-c626-4902-9154-e8a7de415d9a.PNG)
 
-*** So %48.5 percent main story is Comedies.
+%48.5 percent **main story** is Comedies.
 
-*** %16 percent main story is Dramas.
+%16 percent **main story** is Dramas.
 
 -------------------------------------------------------------------
 
