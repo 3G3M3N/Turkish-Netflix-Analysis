@@ -10,6 +10,8 @@ Turkey have 105 movie/show in this dataset. All dataset have 8807. So Turkey in 
 
 **Category:** 
 
+Turkey have 105 content.
+
 26, TV Show Category
 
 76, Movie Category
