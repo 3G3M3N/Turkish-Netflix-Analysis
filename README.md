@@ -30,7 +30,6 @@ Directors:
 
 NA                                      26
 
-Yılmaz Erdoğan has 9 movie. So he is in the %8.5 percent with NA datas, without NA he in the %11.3.
-
+Yılmaz Erdoğan has 9 movie. So he is directed %8.5 percent Turkish content with NA datas, without NA %11.3.
 
 ***********************************************************************************************************************************************************
