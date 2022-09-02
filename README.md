@@ -28,7 +28,7 @@ Directors:
 
 ![yılmaz erdoğan](https://user-images.githubusercontent.com/83331577/188180394-a3c73b0c-2099-4c62-ad36-47cc48dec44c.PNG)
 
-**NaN                                      26**
+**NA:                                      26**
 
 Yılmaz Erdoğan has 9 movie. So he is directed %8.5 percent Turkish content with NA datas, without NA %11.3.
 
